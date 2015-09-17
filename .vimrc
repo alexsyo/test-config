@@ -11,7 +11,7 @@ set autoindent
 set mouse=a
 
 let mapleader=" "
-map<leader>k :Explore<cr>
+map<leader>e :Explore<cr>
 map<leader>t :tabnew<cr>
 map<leader>q :tabp<cr>
 map<leader>w :tabnext<cr>
